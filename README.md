@@ -1,4 +1,3 @@
-# lekhasapers/README.md
 WHAT UP 🖖
 
 ![Cool Cat GIF](https://media4.giphy.com/media/2SYc7mttUnWWaqvWz8/giphy.gif)
