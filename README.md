@@ -1,6 +1,5 @@
 # lekhasapers/README.md
-- 👋 Hi, I’m @lekhasapers ! Nice to meet you! 
-- 👀 I'm interested in Archival Database Development, Deep Learning, Cyberethics, and Interactive Audio-Visual Media
-- 🌱 I’m currently learning C++, Python, Bash scripting and Linux
-- 📫 Say hi: [lekhasapers@ucsb.edu](mailto:lekhasapers@ucsb.edu)
+- WHAT UP! 🖖
+-  [![Lekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lekhasapers)](https://github.com/lekhasapers/github-readme-stats)
+- [lekhasapers@ucsb.edu](mailto:lekhasapers@ucsb.edu)
 
