@@ -1,6 +1,6 @@
 ## Welcome to My GitHub! 🖖
 
-I'm Lekha, and this space highlights my work at the intersection of technology, media, and creative expression. I explore topics like privacy, digital preservation, and interdisciplinary projects that blend art, technology, and media theory.
+I'm Lekha, and this space highlights my interdisciplinary work at the intersection of technology, media, and privacy. My projects explore themes of digital preservation, communication systems, and the ethical implications of technology in society. I’m particularly focused on how privacy laws and digital technologies intersect, and how interdisciplinary approaches can reshape our understanding of both human and machine intelligence.
 
 ### Featured Projects
 
