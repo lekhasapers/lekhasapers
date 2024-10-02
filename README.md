@@ -5,7 +5,7 @@ I'm Lekha, and this space highlights my work at the intersection of technology, 
 ### Featured Projects
 
 - **KCSB-FM Digital Archive**  
-   Spearheaded the creation of a digital archive using Omeka-S for KCSB-FM. The project integrates UI/UX design and back-end development, and it represents one of the first archives hosted by a radio station.
+   Spearheaded the creation of a digital archive using Omeka-S for KCSB-FM. The project integrates UI/UX design and back-end development, and it represents one of the first archival databases hosted by a college radio station.
 
 ### Interests and Skills
 
