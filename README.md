@@ -1,7 +1,5 @@
 ## Welcome to My GitHub! 🖖
 
-![Cool Cat GIF](https://media4.giphy.com/media/2SYc7mttUnWWaqvWz8/giphy.gif)
-
 I'm Lekha, and this space highlights my work at the intersection of technology, media, and creative expression. I explore topics like privacy, digital preservation, and interdisciplinary projects that blend art, technology, and media theory.
 
 ### Featured Projects
@@ -15,6 +13,9 @@ I'm Lekha, and this space highlights my work at the intersection of technology, 
 - **Tools**: Git, Linux Terminal, Omeka-S, Bash, Arduino
 
 [![Lekha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekhasapers&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or to discuss shared interests!
+
 
 
 
